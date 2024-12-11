@@ -1,0 +1,28 @@
+[
+  {
+    "name": "wrist watch",
+    "price": 50,
+    "size": "small",
+    "id": 1
+  },
+  {
+    "name": "shoe",
+    "price": 70,
+    "size": "large",
+    "id": 2
+  },
+  {
+    "name": "bag",
+    "price": 50,
+    "size": "medium",
+    "id": 5
+  },
+  {
+    "name": "long vest",
+    "price": 99,
+    "size": "medium"
+  },
+  {
+    "id": null
+  }
+]
